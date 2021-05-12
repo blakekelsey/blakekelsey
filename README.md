@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @blakekelsey
-- 👀 I’m interested in growing my skill set in softwarae development!
+- 👀 I’m interested in growing my skill set in software development!
 - 🌱 I’m currently learning JavaScript, C#, and I play around with Python a bit when using my Raspberry Pi
